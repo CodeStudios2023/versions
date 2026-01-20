@@ -1,16 +1,13 @@
 [
   {
-    "version": "1.0.2",
+    "version": "1.0.1",
     "changelogs": [
-      "- ralo2",
-      "- testo2"
+      "- Added Bridge for frameworks",
+      "- Better plate generation"
     ]
   },
   {
     "version": "1.0.0",
-    "changelogs": [
-      "- ralo",
-      "- testo"
-    ]
+    "changelogs": []
   },
 ]
