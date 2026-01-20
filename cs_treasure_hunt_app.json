@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.2",
+    "changelogs": [
+      "- ralo2",
+      "- testo2"
+    ]
+  },
+  {
     "version": "1.0.0",
     "changelogs": [
       "- ralo",
