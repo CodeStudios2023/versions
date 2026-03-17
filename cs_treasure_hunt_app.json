@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.2",
+    "changelogs": [
+      "- Fixed some icon problems",
+      "- Changed Files [index.html, fxmanifest.lua]"
+    ]
+  },
+  {
     "version": "1.0.1",
     "changelogs": [
       "- Added Bridge for frameworks",
