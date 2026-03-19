@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.0.3",
+    "changelogs": [
+      "- Added debug mode",
+      "- Changed Files [all files, except config files]"
+    ]
+  },
+  {
     "version": "1.0.2",
     "changelogs": [
       "- Fixed some icon problems",
