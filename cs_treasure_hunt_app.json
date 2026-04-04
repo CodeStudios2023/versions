@@ -1,4 +1,11 @@
 [
+    {
+    "version": "1.0.4",
+    "changelogs": [
+      "- Added player loaded state",
+      "- Changed Files [bridge/**/client.lua]"
+    ]
+  },
   {
     "version": "1.0.3",
     "changelogs": [
